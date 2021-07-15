@@ -1,18 +1,18 @@
 .App {
   height: 100vh;
   text-align: center;
-  background-color: #282c34;
+  background-color: #1b1b1b;
   
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
 
 }
 
 .App-logo {
   height: 25vmin;
   pointer-events: none;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 /* 
 @media (prefers-reduced-motion: no-preference) {
